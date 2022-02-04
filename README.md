@@ -1,5 +1,4 @@
 # Coffee Machine
-## Softia PHP Challenge
 
 ### Requirements
 
